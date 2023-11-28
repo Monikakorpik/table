@@ -1,6 +1,6 @@
 # To-do List
 
-![Monika](https://github.com/Monikakorpik/homepage/blob/main/images/MonikaKorpik.jpg?raw=true)
+![List of tasks](https://postimg.cc/TKcJ3SrN)
 
 ## Description
 
