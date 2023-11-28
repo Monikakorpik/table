@@ -1,0 +1,27 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    height: 500px;
+    border: 1px solid #ccc;
+    padding:20px ;
+    grid-template-areas: 
+    "feader header header"
+    "main main aside"
+    "main main aside"
+    "footer footer footer";
+    
+}
+
+.container__item {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: teal;
+    color: white;
+
+}
+.container__item--last {
+   grid-area: footer;
+}
