@@ -8,3 +8,8 @@ It presents you with an application with a task list. You can easily write down 
 
 
 https://monikakorpik.github.io/table/
+
+In the project were used:
+HTML
+CSS
+JavaScript
